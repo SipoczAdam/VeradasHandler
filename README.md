@@ -1,2 +1,2 @@
-# VeradasHandler
+# Véradás Handler
 Véradás a Handlerban!
