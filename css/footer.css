@@ -4,17 +4,16 @@
 
 .creatormenu1, .creatormenu2 {
     float: left;
+    border: 2px solid #fff;
+    width: 50%;
+    text-align: center;
 }
 
-.creatormenu1 {
-    padding-left: 8%;
-    padding-right: 50%;
+.names {
+    color: #fff;
 }
 
-#name1 {
-    text-align: left;
-}
-
-#name2 {
-    text-align: right;
+.web, .webref {
+    color: #fff;
+    font-size: 15px;
 }
