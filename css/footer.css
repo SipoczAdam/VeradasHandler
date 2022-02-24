@@ -24,7 +24,12 @@
     font-size: 15px;
 }
 
+.webref:hover {
+    color: #ff0000;
+}
+
 .creatormenu1 img, .creatormenu2 img {
-    width: 200px;
+    border-radius: 25px;
+    width: 150px;
     height: 200px;
 }
