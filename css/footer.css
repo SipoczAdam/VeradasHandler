@@ -4,16 +4,23 @@
 
 .creatormenu1, .creatormenu2 {
     float: left;
-    border: 2px solid #fff;
-    width: 50%;
+    border: 1px solid #fff;
+    width: 45%;
     text-align: center;
+    margin-left: 40px;
 }
 
 .names {
     color: #fff;
+    font-size: 25px;
 }
 
 .web, .webref {
     color: #fff;
     font-size: 15px;
+}
+
+.creatormenu1 img, .creatormenu2 img {
+    width: 200px;
+    height: 200px;
 }
